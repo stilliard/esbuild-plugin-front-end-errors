@@ -4,6 +4,7 @@
 Shows esbuild errors directly in the browser as HTML.
 
 Works by writing to the out file on error to insert the error into the html so it's loud and in your face.
+![screenshot](./screenshot.png)
 
 ## Install
 
