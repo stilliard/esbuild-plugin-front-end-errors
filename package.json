@@ -1,0 +1,12 @@
+{
+  "name": "esbuild-plugin-front-end-errors",
+  "version": "1.0.0",
+  "description": "esbuild plugin to show errors directly in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrew Stilliard <andrew.stilliard@gmail.com> (https://blog.stapps.io/)",
+  "license": "MIT"
+}
