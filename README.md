@@ -31,4 +31,4 @@ esbuild.context({
 
 ## License
 
-[MIT](./blob/main/LICENSE)
+[MIT](./LICENSE)
