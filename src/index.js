@@ -3,7 +3,7 @@ const fs = require('fs');
 
 module.exports = {
     // display errors in the HTML by writing them to the output file
-    name: 'front-end-errors',
+    name: 'frontend-errors',
     setup(build) {
         build.onEnd(result => {
             let errorOutput = '';

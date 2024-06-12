@@ -1,12 +1,23 @@
 {
-  "name": "esbuild-plugin-front-end-errors",
+  "name": "esbuild-plugin-frontend-errors",
   "version": "1.0.0",
   "description": "esbuild plugin to show errors directly in the browser",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+      "esbuild",
+      "esbuild-plugin",
+      "browser-errors",
+      "frontend-errors",
+      "cookie-popup"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/stilliard/esbuild-plugin-frontend-errors.git"
+  },
+  "homepage": "https://github.com/stilliard/esbuild-plugin-frontend-errors",
   "author": "Andrew Stilliard <andrew.stilliard@gmail.com> (https://blog.stapps.io/)",
   "license": "MIT"
 }
