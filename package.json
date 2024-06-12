@@ -1,6 +1,6 @@
 {
   "name": "esbuild-plugin-frontend-errors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "esbuild plugin to show errors directly in the browser",
   "main": "src/index.js",
   "scripts": {
