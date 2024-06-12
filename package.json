@@ -10,8 +10,7 @@
     "esbuild",
     "esbuild-plugin",
     "browser-errors",
-    "frontend-errors",
-    "cookie-popup"
+    "frontend-errors"
   ],
   "repository": {
     "type": "git",
