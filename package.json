@@ -7,15 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-      "esbuild",
-      "esbuild-plugin",
-      "browser-errors",
-      "frontend-errors",
-      "cookie-popup"
+    "esbuild",
+    "esbuild-plugin",
+    "browser-errors",
+    "frontend-errors",
+    "cookie-popup"
   ],
   "repository": {
-      "type": "git",
-      "url": "https://github.com/stilliard/esbuild-plugin-frontend-errors.git"
+    "type": "git",
+    "url": "git+https://github.com/stilliard/esbuild-plugin-frontend-errors.git"
   },
   "homepage": "https://github.com/stilliard/esbuild-plugin-frontend-errors",
   "author": "Andrew Stilliard <andrew.stilliard@gmail.com> (https://blog.stapps.io/)",
